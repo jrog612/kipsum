@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "kipsum"
+version = "0.0.1"
+description = "Korean lorem ipsum generator"
+authors = ["jrog612 <wnrhd114@gmail.com>"]
+license = "MIT"
+repository = 'https://github.com/jrog612/kipsum'
+homepage = 'https://github.com/jrog612/kipsum'
+readme = "README.md"
+packages = [
+    { include = 'kipsum' }
+]
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
