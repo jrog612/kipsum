@@ -1,5 +1,7 @@
 # kipsum
 
+[![version badge](https://badge.fury.io/py/kipsum.svg)](https://badge.fury.io/py/kipsum)
+
 kipsum은 python 코드로 작성된 한글판 lorem ipsum 생성기입니다.
 
 ## Installation
