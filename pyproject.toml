@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "kipsum"
-version = "0.0.1"
+version = "1.0.0"
 description = "Korean lorem ipsum generator"
 authors = ["jrog612 <wnrhd114@gmail.com>"]
 license = "MIT"
