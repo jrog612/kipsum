@@ -19,7 +19,6 @@ import kipsum
 
 kip = kipsum.Kipsum()
 
-# shortcut
 kip.sentence(6)
 >>> '더운지라 가진 사랑의 밥을 두손을 있는가?'
 
